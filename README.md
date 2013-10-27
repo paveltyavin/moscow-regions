@@ -1,4 +1,6 @@
-moscow-regions
+Районы Москвы в Area
 ==============
 
-moscow regions
+Этот небольшой файл содержит area-тег для райнов Москвы. Не включены районы новой Москвы.
+
+http://vinograd19.github.io/moscow-regions/
