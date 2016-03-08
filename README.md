@@ -3,4 +3,4 @@
 
 Этот небольшой файл содержит area-тег для райнов Москвы. Не включены районы новой Москвы.
 
-http://vinograd19.github.io/moscow-regions/
+http://paveltyavin.github.io/moscow-regions/
